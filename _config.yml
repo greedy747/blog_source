@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: meepo
+title: meepo'blog
 subtitle: a blog about web tech
 description:
 keywords: javascript vue http frontend 
-author: 大西几
+author: meepo
 language:
 timezone:
 
