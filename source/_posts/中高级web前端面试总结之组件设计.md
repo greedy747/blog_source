@@ -1,6 +1,6 @@
 ---
 title: 中高级web前端面试总结之组件设计
-date: 
+date:  2019-01-08 01:14
 category: web前端
 tags: 
     - 前端面试

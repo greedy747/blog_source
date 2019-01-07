@@ -4,9 +4,9 @@
 
 # Site
 title: meepo's blog
-subtitle: a blog about web tech
-description:
-keywords: javascript vue http frontend 
+subtitle:  nothing
+description: 记录日常技术问题，面试问题，以及阅读体会，做一个优秀的程序猿
+keywords: javascript vue http frontend 面试 react
 author: meepo
 language:
 timezone:
